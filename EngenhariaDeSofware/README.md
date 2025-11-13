@@ -11,4 +11,5 @@ Entregar rapidamente atende demandas imediatas, mas pode gerar dívidas técnica
 2. Rigor técnico vs. flexibilidade inicial.
 Seguir padrões e práticas rigorosas desde o início aumenta a confiabilidade, mas pode reduzir a agilidade no começo do projeto.
 3. Escalabilidade organizacional vs. simplicidade de processos. 
+
 Criar processos para lidar com crescimento ajuda na organização e manutenção do código, mas pode adicionar burocracia e dificultar mudanças rápidas.
